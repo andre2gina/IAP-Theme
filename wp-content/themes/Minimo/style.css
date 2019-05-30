@@ -1,0 +1,19 @@
+	/*
+	Theme Name: Minimo
+	Theme URI: https://olx.ro
+	Author: Pal Andrea
+	Author URI: https:olx.ro
+	Description: Lorem ipsum dolor sit amet
+	Version: 1.0
+	License: GNU General Public License v2 or later
+	License URI: http://www.gnu.org/licenses/gpl-2.0.html
+	Text Domain: Minimo_theme
+
+	This theme, like WordPress, is licensed under the GPL.
+	Use it to make something cool, have fun, and share what you've learned with others.
+	*/	
+@import url('css/tools.css');
+@import url('css/header.css');
+@import url('css/hero.css');
+@import url('css/post.css');
+@import url('css/footer.css');

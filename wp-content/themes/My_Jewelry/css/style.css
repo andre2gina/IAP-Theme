@@ -1,0 +1,41 @@
+/*
+	Theme Name: My_jewelry
+	Theme URI: https://olx.ro
+	Author: Pal Andrea
+	Author URI: https:olx.ro
+	Description: Bijuterii handmade
+	Version: 1.0
+	License: GNU General Public License v2 or later
+	License URI: http://www.gnu.org/licenses/gpl-2.0.html
+	Text Domain: PSD_THEME
+
+	This theme, like WordPress, is licensed under the GPL.
+	Use it to make something cool, have fun, and share what you've learned with others.
+	*/	
+	body{ 
+    margin:0px; 
+    padding:0px; 
+} 
+#header{ 
+    width:100%; 
+    height:150px; 
+    border:1px solid #000; 
+} 
+#content{ 
+    width:50%; 
+    margin-left:20px; 
+    border:1px solid #000; 
+    float:left; 
+} 
+#sidebar{ 
+    width:30%; 
+    float:left; 
+    margin-left:10px; 
+    border:1px solid #000; 
+} 
+#footer{ 
+    width:100%; 
+    height:100px; 
+    clear:both; 
+    border:1px solid #000; 
+}
